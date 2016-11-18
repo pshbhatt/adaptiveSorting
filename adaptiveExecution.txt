@@ -1,0 +1,3 @@
+Execution time for First Algorithm: 1756766487
+Execution time for Second Algorithm: 1258548
+Execution time for Third Algorithm: 1956995

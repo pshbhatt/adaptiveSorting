@@ -1,0 +1,11 @@
+
+Asymptotic Result:0.9900045260620626
+Execution Time:0.0
+Asymptotic Result:0.9811154261677508
+Execution Time:0.9960887790091316
+Asymptotic Result:0.9814335722367533
+Execution Time:0.23823900668957282
+Asymptotic Result:0.9817412237813825
+Execution Time:0.9163972255784828
+Asymptotic Result:0.9820388907368369
+Execution Time:0.9196717651565871

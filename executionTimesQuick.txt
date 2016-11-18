@@ -1,0 +1,10 @@
+Asymptotic: 72510.65567243332
+Executiom Times: 5933919
+Asymptotic: 73906.34551090574
+Executiom Times: 5957219
+Asymptotic: 75304.48071229945
+Executiom Times: 24907420
+Asymptotic: 76705.02051675942
+Executiom Times: 27179720
+Asymptotic: 78107.92550100193
+Executiom Times: 29553718
